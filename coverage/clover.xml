@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1635173882367" clover="3.2.0">
+  <project timestamp="1635173882367" name="All files">
+    <metrics statements="206" coveredstatements="142" conditionals="63" coveredconditionals="26" methods="68" coveredmethods="41" elements="337" coveredelements="209" complexity="0" loc="206" ncloc="206" packages="19" files="30" classes="30"/>
+    <package name="Paack">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="App.js" path="/Users/ma/Desktop/emad/Paacks/Paack/App.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src">
+      <metrics statements="8" coveredstatements="7" conditionals="3" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="config.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/config.js">
+        <metrics statements="8" coveredstatements="7" conditionals="3" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="10" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.components.common">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/common/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="Paack.src.components.common.PaackBackbtn">
+      <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="index.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/common/PaackBackbtn/index.js">
+        <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="33" count="7" type="stmt"/>
+      </file>
+      <file name="style.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/common/PaackBackbtn/style.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.components.common.PaackButton">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/common/PaackButton/index.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="32" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.components.common.PaackDeliveryDetailCard">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/common/PaackDeliveryDetailCard/index.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="35" count="6" type="stmt"/>
+      </file>
+      <file name="style.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/common/PaackDeliveryDetailCard/style.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.components.common.PaackDeliveryItem">
+      <metrics statements="8" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
+      <file name="index.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/common/PaackDeliveryItem/index.js">
+        <metrics statements="7" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="42" count="6" type="stmt"/>
+      </file>
+      <file name="style.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/common/PaackDeliveryItem/style.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.components.common.PaackHeader">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/common/PaackHeader/index.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="36" count="6" type="stmt"/>
+      </file>
+      <file name="style.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/common/PaackHeader/style.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.components.common.PaackList">
+      <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <file name="index.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/common/PaackList/index.js">
+        <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.components.common.PaackText">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/common/PaackText/index.js">
+        <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="14" type="stmt"/>
+        <line num="21" count="8" type="stmt"/>
+        <line num="29" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.components.pages.DeliveryDetails">
+      <metrics statements="42" coveredstatements="26" conditionals="18" coveredconditionals="10" methods="14" coveredmethods="10"/>
+      <file name="index.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/pages/DeliveryDetails/index.js">
+        <metrics statements="41" coveredstatements="25" conditionals="18" coveredconditionals="10" methods="14" coveredmethods="10"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="57" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="60" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="76" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="91" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+        <line num="96" count="1" type="stmt"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="127" count="0" type="stmt"/>
+        <line num="129" count="0" type="stmt"/>
+        <line num="150" count="2" type="stmt"/>
+      </file>
+      <file name="style.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/pages/DeliveryDetails/style.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.components.pages.Home">
+      <metrics statements="11" coveredstatements="10" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="4"/>
+      <file name="index.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/pages/Home/index.js">
+        <metrics statements="10" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="4"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="38" count="3" type="stmt"/>
+        <line num="67" count="2" type="stmt"/>
+      </file>
+      <file name="style.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/pages/Home/style.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.components.partials">
+      <metrics statements="9" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="4"/>
+      <file name="Navigation.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/components/partials/Navigation.js">
+        <metrics statements="9" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="4"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.helpers">
+      <metrics statements="26" coveredstatements="13" conditionals="4" coveredconditionals="0" methods="8" coveredmethods="4"/>
+      <file name="DimensionHelper.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/helpers/DimensionHelper.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="17" count="9" type="stmt"/>
+        <line num="18" count="101" type="stmt"/>
+        <line num="28" count="9" type="stmt"/>
+        <line num="29" count="92" type="stmt"/>
+      </file>
+      <file name="api.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/helpers/api.js">
+        <metrics statements="20" coveredstatements="7" conditionals="4" coveredconditionals="0" methods="6" coveredmethods="2"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.store">
+      <metrics statements="16" coveredstatements="16" conditionals="2" coveredconditionals="2" methods="0" coveredmethods="0"/>
+      <file name="actionTypes.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/store/actionTypes.js">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+      </file>
+      <file name="index.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/store/index.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="0" coveredmethods="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.store.actions">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="3"/>
+      <file name="deliveries.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/store/actions/deliveries.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="3"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="41" count="3" type="stmt"/>
+        <line num="48" count="3" type="stmt"/>
+        <line num="53" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.store.reducers">
+      <metrics statements="29" coveredstatements="8" conditionals="24" coveredconditionals="3" methods="6" coveredmethods="1"/>
+      <file name="deliveries.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/store/reducers/deliveries.js">
+        <metrics statements="28" coveredstatements="7" conditionals="24" coveredconditionals="3" methods="6" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="13" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="4" type="cond" truecount="2" falsecount="9"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="54" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="80" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="114" count="0" type="stmt"/>
+        <line num="121" count="3" type="stmt"/>
+      </file>
+      <file name="index.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/store/reducers/index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.store.sagas">
+      <metrics statements="12" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5"/>
+      <file name="deliveriesSaga.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/store/sagas/deliveriesSaga.js">
+        <metrics statements="11" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+      </file>
+      <file name="index.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/store/sagas/index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Paack.src.theme">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Colors.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/theme/Colors.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="index.js" path="/Users/ma/Desktop/emad/Paacks/Paack/src/theme/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
