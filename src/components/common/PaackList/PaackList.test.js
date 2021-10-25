@@ -26,14 +26,10 @@
  describe('renders PaackList ', () => { 
     
      it("Must Render Correctly", () => {
-    //      const wrapper = render(
-    //          <MockedNavigator   component={()=><PaackList renderItem={PaackDeliveryItem} data={mockDataTodos}/>}  />
-    //      ); 
-    //      expect(wrapper.queryByTestId('PaackList')).toBeTruthy();
+         const wrapper = render(
+             <MockedNavigator   component={()=><PaackList renderItem={PaackDeliveryItem} data={mockDataTodos}/>}  />
+         ); 
+         expect(wrapper.queryByTestId('PaackList')).toBeTruthy();
      });
-
-    //  it('should display as a ListItem', () => {
-    //     const wrapper = shallow(<renderItem item={item} />);
-    //     expect(wrapper.find(ListItem).length).toEqual(1);
-    // });
+ 
  });

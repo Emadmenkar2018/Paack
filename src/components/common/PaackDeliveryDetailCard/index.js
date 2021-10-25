@@ -10,7 +10,7 @@ const PaackDeliveryDetailCard = (props) => {
     const { deliveryData } = props
 
     return (
-        <View style={styles.cardContainer}>
+        <View testID="PaackDeliveryDetailCard" style={styles.cardContainer}>
 
             <View style={styles.bubble}>
                 <PaackText style={styles.header} fontSize={2}>Delivery Details</PaackText>
